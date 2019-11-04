@@ -1,5 +1,10 @@
 #include<stdio.h>
 #include <stdlib.h>
+
+//ALUNO:GABRIEL SANTOS ROCHA
+//DISCIPLINA: ESTRUTURA DE DADOS I
+//PROFESSOR: WALACE BONFIM
+
  
 typedef struct elementos {
     char nome[50];
